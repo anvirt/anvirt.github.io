@@ -1,3 +1,6 @@
 /.jekyll-metadata
 /_site
 /.jekyll-cache
+
+# local bundle deps
+/vendor
