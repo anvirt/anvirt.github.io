@@ -25,7 +25,8 @@ If you have questions about installation, usage, configuration, or anything else
 > No, we do not ship any store app or browser on the original android system, so the new started VM can not download/install android apps in android environment.
 >
 > You can download apk file by yourself (e.g., from [apkpure.com](https://apkpure.com)).
-> Then install (Main menu -> VM -> install apk, or "+" button on the VM's title bar) to VM.
+>
+> Then install (VM's Main menu -> VM -> install apk, or "+" on the VM's title bar) to VM.
 >
 > NOTE:
 > * Android system images in AnVirt Emu (x86) on support to run Android App built for x86/x86_64, other app can not be installed.
