@@ -21,3 +21,10 @@ layout: default
 If you have questions about installation, usage, configuration, or anything else, please contact us by E-mail: [`support@bbtech.io`](mailto:support@bbtech.io).
 
 # Frequently Asked Questions
+## Q: Is AnVirt Emmu able to download/install Android apps? 
+> No, we do not ship any store app or browser on the original android system, so the new started VM can not download/install android apps in android environment.
+>
+> You can download apk file by yourself, e.g., from [apkpure.com](https://apkpure.com)
+>
+> NOTE:
+> * Android system images in AnVirt Emu (x86) on support to run Android App built for x86/x86_64, other app can not be installed.
