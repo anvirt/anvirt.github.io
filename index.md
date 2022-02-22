@@ -14,7 +14,7 @@ layout: default
 > [![Download on the Mac App Store](./assets/Download_on_the_Mac_App_Store_Badge_US-UK_blk_092917.png)](https://apps.apple.com/us/app/anvirt-emu-x86/id1609334393)
 
 # Open Source
-> AnVirt Emu runs the Android™ environment based on a modified version of the Android Emulator and QEMU.
+> AnVirt Emu runs the environment for Android™ based on a modified version of the Android Emulator and QEMU.
 
 * [Android Emulator](https://source.android.com/setup/create/avd)
 * [QEMU](https://www.qemu.org/)
@@ -32,4 +32,4 @@ If you have questions about installation, usage, configuration, or anything else
 > Then install (VM's Main menu -> VM -> install apk, or "+" on the VM's title bar) to VM.
 >
 > NOTE:
-> * Android system images in AnVirt Emu (x86) only support to run Android App built for x86/x86_64, other app can not be installed.
+> * System images for Android in AnVirt Emu (x86) only support to run Android App built for x86/x86_64, other app can not be installed.
