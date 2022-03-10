@@ -27,9 +27,8 @@ If you have questions about installation, usage, configuration, or anything else
 #### Q: Is AnVirt Emu able to download/install Android apps? 
 > No, we do not ship any store app or browser on the original android system, so the new started VM can not download/install android apps in android environment.
 >
-> You can download apk file by yourself (e.g., from [apkpure.com](https://apkpure.com)).
->
-> Then install (VM's Main menu -> VM -> install apk, or "+" on the VM's title bar) to VM.
+> You can download APK/xAPK file by yourself (e.g., from [apkpure.com](https://apkpure.com)).
 >
 > NOTE:
-> * System images for Android in AnVirt Emu (x86) only support to run Android App built for x86/x86_64, other app can not be installed.
+> * System images for Android in `AnVirt Emu` only support to run Android App built for `arm64(arm64-v8a)`, other app can not be installed.
+> * System images for Android in `AnVirt Emu (x86)` only support to run Android App built for `x86/x86_64`, other app can not be installed.
