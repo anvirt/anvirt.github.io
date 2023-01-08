@@ -1,5 +1,7 @@
 ---
 layout: default
+title: AnVirt Assistant
+description: Install App from (X)APK
 ---
 
 # Privacy Policy
