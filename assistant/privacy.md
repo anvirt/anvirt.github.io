@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: assistant/default
 title: AnVirt Assistant
 description: Install App from (X)APK
 ---
