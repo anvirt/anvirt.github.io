@@ -1,7 +1,7 @@
 ---
 layout: assistant/default
 title: AnVirt Assistant
-description: Install App from (X)APK
+description: Preview APK File Information
 ---
 
 # Get AnVirt Assistant
